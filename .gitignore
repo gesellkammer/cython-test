@@ -1,0 +1,6 @@
+*.html
+*.pyc
+*.so
+*.dylib
+*.a
+build
